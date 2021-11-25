@@ -1,19 +1,10 @@
-### Hi there 👋
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-<!--
-**limivann/limivann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Engineer.;I'm+a+Data+Scientist." /></a>
+</p>
 
 ## Who am I?
 
@@ -35,6 +26,12 @@ Here are some ideas to get you started:
 		MAANG()
 
 ```
+
+## Technologies I Love
+
+- Machine Learning
+- Data Science
+- Full Stack Development
 
 ## Github Stats
 
@@ -59,6 +56,8 @@ Here are some ideas to get you started:
 <p>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js"></a>
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React"></a>
    <!-- React -->
    <!-- Node -->
 </p>
@@ -67,6 +66,12 @@ Here are some ideas to get you started:
 
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a><a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker"></a>
 	
 </p>
+
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21pqy5yzudkfwqwlgcjyeyv5a&redirect=true" target="blank">
+  <img 
+    src="https://spotify-github-profile.vercel.app/api/view?uid=21pqy5yzudkfwqwlgcjyeyv5a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"
+    alt="spotify" />
+</a>
