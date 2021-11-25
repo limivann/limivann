@@ -19,21 +19,19 @@ Here are some ideas to get you started:
 
 ```python
  class WhoAmI:
-   user = 'Ivan Lim'
-	current_edu = "NTU Singapore"
-   currently_learning = "react native"
-   fun_fact = "I hate Pasta"
-	hobbies = [
-                'Chilling',
-			 	'Gaming',
-				'Study Code Sleep Eat'
-			]
+    user = 'Ivan Lim'
+    current_edu = "Nanyang Technological Univerisity"
+    currently_learning = "react native"
+    fun_fact = "I hate Pasta"
+    hobbies = ['Chilling',
+               'Gaming',
+               'Study Code Sleep Eat'
+	         ]
 
-	def getCity():
-		return JurongWestSingapore()
+   def getCity():
+      return Singapore()
 
-	def Ambitions():
-		BecomeSoftwareEngineer()
+   def Ambitions():
 		MAANG()
 
 ```
