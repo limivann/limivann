@@ -1,6 +1,4 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer.;I'm+a+Data+Scientist." /></a>
@@ -11,19 +9,20 @@
 ```python
  class WhoAmI:
     user = 'Ivan Lim'
-    current_edu = "Nanyang Technological Univerisity"
-    currently_learning = "react native"
+    current_edu = "Nanyang Technological University"
+    currently_learning = "nodejs"
     fun_fact = "I hate Pasta"
-    hobbies = ['Chilling',
-               'Gaming',
-               'Study Code Sleep Eat'
-	         ]
+    hobbies = [
+                'Chilling',
+                'Gaming',
+                'Study Code Sleep Eat',
+	          ]
 
    def getCity():
       return Singapore()
 
    def Ambitions():
-		MAANG()
+      MAANG()
 
 ```
 
@@ -38,7 +37,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=limivann&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=limivann&theme=blueberry_duo"/> |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limivann&hide=css&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limivann&hide=css&layout=compact&theme=github_dark" > -->
 
 ## Programming Languages
 
@@ -70,8 +69,10 @@
 	
 </p>
 
+<!-- ## Currently listening
+
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=21pqy5yzudkfwqwlgcjyeyv5a&redirect=true" target="blank">
-  <img 
+  <img
     src="https://spotify-github-profile.vercel.app/api/view?uid=21pqy5yzudkfwqwlgcjyeyv5a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true"
     alt="spotify" />
-</a>
+</a> -->
