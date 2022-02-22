@@ -10,13 +10,13 @@
  class WhoAmI:
     user = 'Ivan Lim'
     current_edu = "Nanyang Technological University"
-    currently_learning = "nodejs"
+    currently_learning = "backend stuffs"
     fun_fact = "I hate Pasta"
     hobbies = [
                 'Chilling',
                 'Gaming',
                 'Study Code Sleep Eat',
-	          ]
+	      ]
 
    def getCity():
       return Singapore()
